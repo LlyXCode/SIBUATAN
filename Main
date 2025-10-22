@@ -69,53 +69,53 @@ end
 
 -- daftar link raw route (ubah ke link punyamu)
 routes = {
-    {"BASE → CP1", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/01.lua")},
-    {"CP1 → CP2", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/12.lua")},
-    {"CP2 → CP3", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/23.lua")},
-    {"CP3 → CP4", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/34.lua")},
-    {"CP4 → CP5", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/45.lua")},
-    {"CP5 → CP6", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/56.lua")},
-    {"CP6 → CP7", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/67.lua")},
-    {"CP7 → CP8", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/78.lua")},
-    {"CP8 → CP9", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/89.lua")},
-    {"CP9 → CP10", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/910.lua")},
-    {"CP10 → CP11", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1011.lua")},
-    {"CP11 → CP13", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1113.lua")},
-    {"CP13 → CP14", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1314.lua")},
-    {"CP14 → CP15", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1415.lua")},
-    {"CP15 → CP16", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1516.lua")},
-    {"CP16 → CP17", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1617.lua")},
-    {"CP17 → CP18", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1718.lua")},
-    {"CP18 → CP19", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1819.lua")},
-    {"CP19 → CP20", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/1920.lua")},
-    {"CP20 → CP21", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2021.lua")},
-    {"CP21 → CP22", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2122.lua")},
-    {"CP22 → CP23", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2223.lua")},
-    {"CP23 → CP24", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2324.lua")},
-    {"CP24 → CP25", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2425.lua")},
-    {"CP25 → CP26", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2526.lua")},
-    {"CP26 → CP27", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2627.lua")},
-    {"CP27 → CP28", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2728.lua")},
-    {"CP28 → CP29", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2829.lua")},
-    {"CP29 → CP30", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/2930.lua")},
-    {"CP30 → CP31", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3031.lua")},
-    {"CP31 → CP32", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3132.lua")},
-    {"CP32 → CP33", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3233.lua")},
-    {"CP33 → CP34", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3334.lua")},
-    {"CP34 → CP35", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3435.lua")},
-    {"CP35 → CP36", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3536.lua")},
-    {"CP36 → CP37", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3637.lua")},
-    {"CP37 → CP38", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3738.lua")},
-    {"CP38 → CP39", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3839.lua")},
-    {"CP39 → CP40", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/3940.lua")},
-    {"CP40 → CP41", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4041.lua")},
-    {"CP41 → CP42", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4142.lua")},
-    {"CP42 → CP43", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4243.lua")},
-    {"CP43 → CP44", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4344.lua")},
-    {"CP44 → CP45", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4445.lua")},
-    {"CP45 → CP46", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4546.lua")},
-    {"CP46 → CP47", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4647.lua")},
-    {"CP47 → SUMMIT", loadRoute("https://raw.githubusercontent.com/Bardenss/SIBUATAN/refs/heads/main/4748.lua")},
+    {"BASE → CP1", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/01.lua")},
+    {"CP1 → CP2", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/12.lua")},
+    {"CP2 → CP3", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/23.lua")},
+    {"CP3 → CP4", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/34.lua")},
+    {"CP4 → CP5", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/45.lua")},
+    {"CP5 → CP6", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/56.lua")},
+    {"CP6 → CP7", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/67.lua")},
+    {"CP7 → CP8", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/78.lua")},
+    {"CP8 → CP9", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/89.lua")},
+    {"CP9 → CP10", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/910.lua")},
+    {"CP10 → CP11", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1011.lua")},
+    {"CP11 → CP13", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1113.lua")},
+    {"CP13 → CP14", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1314.lua")},
+    {"CP14 → CP15", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1415.lua")},
+    {"CP15 → CP16", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1516.lua")},
+    {"CP16 → CP17", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1617.lua")},
+    {"CP17 → CP18", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1718.lua")},
+    {"CP18 → CP19", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1819.lua")},
+    {"CP19 → CP20", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/1920.lua")},
+    {"CP20 → CP21", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2021.lua")},
+    {"CP21 → CP22", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2122.lua")},
+    {"CP22 → CP23", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2223.lua")},
+    {"CP23 → CP24", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2324.lua")},
+    {"CP24 → CP25", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2425.lua")},
+    {"CP25 → CP26", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2526.lua")},
+    {"CP26 → CP27", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2627.lua")},
+    {"CP27 → CP28", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2728.lua")},
+    {"CP28 → CP29", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2829.lua")},
+    {"CP29 → CP30", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/2930.lua")},
+    {"CP30 → CP31", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3031.lua")},
+    {"CP31 → CP32", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3132.lua")},
+    {"CP32 → CP33", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3233.lua")},
+    {"CP33 → CP34", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3334.lua")},
+    {"CP34 → CP35", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3435.lua")},
+    {"CP35 → CP36", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3536.lua")},
+    {"CP36 → CP37", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3637.lua")},
+    {"CP37 → CP38", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3738.lua")},
+    {"CP38 → CP39", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3839.lua")},
+    {"CP39 → CP40", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/3940.lua")},
+    {"CP40 → CP41", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4041.lua")},
+    {"CP41 → CP42", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4142.lua")},
+    {"CP42 → CP43", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4243.lua")},
+    {"CP43 → CP44", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4344.lua")},
+    {"CP44 → CP45", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4445.lua")},
+    {"CP45 → CP46", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4546.lua")},
+    {"CP46 → CP47", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4647.lua")},
+    {"CP47 → SUMMIT", loadRoute("https://raw.githubusercontent.com/LlyXCode/SIBUATAN/refs/heads/main/4748.lua")},
 }
 
 -- ============================================================
@@ -360,10 +360,10 @@ end
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "BANTAI GUNUNG",
+    Title = "LlyXCode 〢 SIBUATAN",
     Icon = "lucide:mountain-snow",
-    Author = "bardenss",
-    Folder = "BRDNHub",
+    Author = "LlyXCode",
+    Folder = "LlyXCode",
     Size = UDim2.fromOffset(580, 460),
     Theme = "Midnight",
     Resizable = true,
@@ -738,7 +738,7 @@ Replay/route system untuk checkpoint.
 - Run CPx → CPy = jalur spesifik
 - Playback Speed = atur kecepatan replay (0.25x - 3.00x)
 
-Own bardenss
+Own LlyXCode
     ]],
     TextSize = 16,
     TextTransparency = 0.25,
@@ -751,7 +751,7 @@ Window:DisableTopbarButtons({
 
 -- Open button cantik
 Window:EditOpenButton({
-    Title = "BANTAI GUNUNG",
+    Title = "LlyXCode",
     Icon = "geist:logo-nuxt",
     CornerRadius = UDim.new(0,16),
     StrokeThickness = 2,
@@ -907,7 +907,7 @@ tampTab:Button({
 })
 
 -- Final notif
-notify("BANTAI GUNUNG", "Script sudan di load, gunakan dengan bijak.", 3)
+notify("LlyXCode", "Script sudan di load, gunakan dengan bijak.", 3)
 
 pcall(function()
     Window:Show()
